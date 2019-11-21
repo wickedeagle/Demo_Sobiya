@@ -1,4 +1,5 @@
 print("Addition of  Two numbers")
 a=int(input("Enter 1st number:"))
 b=int(input("Enter 2nd number:"))
-print(a+b)
+print("Addition of ",a," and ",b," is :",a+b)
+print("Successfull!!")
